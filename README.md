@@ -58,7 +58,9 @@ https://github.com/user-attachments/assets/aec43f84-6629-418e-841d-da093da19a2b
 
 
 
-Conclusion: This calculator application is a practical demonstration of how Python can be used to create interactive desktop tools with Tkinter. 
+Conclusion:
+
+This calculator application is a practical demonstration of how Python can be used to create interactive desktop tools with Tkinter. 
 
 
 Task 2 : Password Generator 🔐
