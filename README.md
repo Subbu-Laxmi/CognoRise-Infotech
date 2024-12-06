@@ -18,6 +18,8 @@ Python: For implementing the calculator logic.
 Tkinter: For building the graphical user interface.
 
 Screenshots:
+
+
 ![image](https://github.com/user-attachments/assets/0aa8adae-b602-4012-848e-afa42ce506e4)
 
 Performing a Calculation: Let’s perform a simple calculation. I'll input the numbers '8' and '9', press the addition button, and then the equal button. As you can see, the result, '17', is displayed on the screen.
@@ -70,12 +72,54 @@ Screenshots :
 
 This Password Generator project highlights the practical use of Python for solving everyday challenges, such as improving security.
 
-Task 3 : 
+Task 3 : Rock, Paper, Scissors Game ✊📄✂️
+
+About the Project:
+The Rock, Paper, Scissors game is a Python application that lets users play the classic hand game against the computer. It features an interactive graphical user interface where users can make their choice, track scores, and view the final winner at the end of the session. This fun and engaging project demonstrates Python’s capabilities in building games with a simple yet dynamic design.
+
+Features:
+Interactive Gameplay: Users can select Rock, Paper, or Scissors and play against the computer.
+Score Tracking: Keeps track of scores for both the user and the computer.
+Final Result: Displays the overall winner when the game ends.
+User-Friendly Interface: Built with Python’s Tkinter library for an intuitive and responsive experience.
+Clear Instructions: Provides clear feedback and game results after every round.
+
+Built With:
+Python: Implements the game logic.
+Tkinter: Creates the graphical user interface.
+random: Generates the computer's choice randomly.
+
+Screenshots:
+
+
+https://github.com/user-attachments/assets/9e03b94e-9a17-461d-860b-03332e32b23f
 
 
 
+Task 4 : Countdown Timer ⏳
+
+About the Project:
+The Countdown Timer is a Python application designed to help users keep track of time for various activities, such as cooking, workouts, or productivity sessions. It features an intuitive graphical user interface where users can set a custom duration, start the countdown, pause, reset, or even restart the timer as needed. This project demonstrates the practical use of Python for creating time-management tools with a user-friendly interface.
+
+Features:
+Set Timer: Enter a custom countdown duration in hours, minutes, and seconds.
+Start Timer: Begin the countdown with a single click.
+Pause and Reset: Pause the timer at any point or reset it back to the initial duration.
+User-Friendly Interface: Built using Python’s Tkinter library for an intuitive experience.
+Versatility: Suitable for various use cases, such as workouts, cooking, or productivity tasks.
+
+Built With:
+Python: For the core functionality of the timer.
+Tkinter: For the graphical user interface.
+time: To handle time-related functions.
+
+Screenshots:
 
 
 
-Task 4 :
+https://github.com/user-attachments/assets/be6623d8-798c-4eb4-bd2d-5ec56a8572f2
+
+
+
+Conclusion:
 Through this internship at Cognorise Infotech, I am gaining valuable experience in designing and implementing such projects. I hope you found this demonstration helpful and insightful. Thank you for reading!
