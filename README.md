@@ -3,6 +3,7 @@
 Hello everyone, and welcome to this demo of my Python projects. This projects are part of my Python Development internship, conducted by Cognorise Infotech, which spans one month. The objective of this internship is to enhance my Python programming skills by working on various practical tasks.
 
 Getting Started
+
 Prerequisites:
 Python 3.x installed on your system.
 
