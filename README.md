@@ -7,7 +7,7 @@ Prerequisites:
 Python 3.x installed on your system.
 
 Clone the repository:
-git clone https://github.com/subbu-laxmi/CognoRise-Infotech
+git clone [https://github.com/subbu-laxmi/CognoRise-Infotech](https://github.com/Subbu-Laxmi/CognoRise-Infotech.git)
 
 
 Task 1 - Calculator App 🧮
